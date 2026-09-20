@@ -1,84 +1,135 @@
-# Wael El-Begearmi — Product Builder & Software Developer
+<div align="center">
 
-**Python • Django • Flutter • AI-assisted product development • Web & Mobile Systems**
+# Wael El-Begearmi
 
-I’m **Wael El-Begearmi** (`waelbeso`), a product builder and software developer focused on turning ambitious ideas into working digital products. I work across product architecture, backend engineering, APIs, mobile/web applications, automation, QA, deployment, and real-world system integration.
+### Product Builder · Backend Engineer · Open-Source Developer
 
-My current work spans **fashion-tech, social platforms, evidence-driven communities, cybersecurity awareness, and hardware/software systems**. I care about clear domain architecture, bilingual Arabic/English experiences, privacy, security, automation, and building products that solve real problems rather than stopping at prototypes.
+I build production-ready digital products with **Python, Django, Flutter and AI-assisted workflows** — from architecture and APIs to QA, deployment and iteration.
 
-> **Idea → Product Architecture → Backend/API → Web/Mobile → QA → Deployment → Iteration**
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/waelbeso)
+[![GitHub](https://img.shields.io/badge/GitHub-@waelbeso-181717?style=for-the-badge&logo=github)](https://github.com/waelbeso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wael_El--Begearmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://cn.linkedin.com/in/wael-el-begearmi)
 
-## Selected Projects
+**Idea → Architecture → Backend/API → Web/Mobile → QA → Deployment → Iteration**
 
-### [FABINZI](https://github.com/waelbeso/FABINZI) — Fashion-Tech / Design-to-Production Platform
+</div>
 
-A digital fashion platform connecting **Customers, Designers, Manufacturing Partners, and FABINZI Platform Administration** in a controlled design-to-production workflow.
+---
 
-**Focus:** fashion-tech, marketplace architecture, designer workflows, manufacturing workflows, commerce, production, fulfillment, finance, security, bilingual UX, and production-grade backend systems.
+## 🚀 Currently Building
 
-### [KREWZI](https://github.com/waelbeso/KREWZI) — Real-Life Social Platform
+### 👕 [FABINZI](https://github.com/waelbeso/FABINZI)
+**Fashion-Tech · Design-to-Production Platform**
 
-A bilingual social platform designed around **real friendships and real-world interaction**, with private friend chat, proximity-verified meetups, real-life streaks, Live availability, Crews, and structured Claims.
+A production-oriented fashion platform connecting customers, designers, manufacturing partners and platform operations through structured design, commerce, manufacturing, fulfillment and finance workflows.
 
-**Focus:** Python/Django, Flutter, mobile APIs, Bluetooth Low Energy concepts, privacy-first social features, Arabic RTL / English LTR, Android/iOS QA, and real-world social interaction.
+`Django` `REST APIs` `Flutter` `PostgreSQL` `Redis` `Celery` `Docker` `CI/CD` `Arabic RTL / English LTR`
 
-### [Proof](https://github.com/waelbeso/proof) — Evidence-First Social Network
+### 🤝 [KREWZI](https://github.com/waelbeso/KREWZI)
+**Real-Life Social Platform**
 
-A bilingual evidence-driven social platform where the primary object is a **claim**, not a generic post. Users can support, challenge, or contextualize claims with structured evidence, source links, positions, and confidence.
+A bilingual social product centered on real friendships and real-world interaction, including private chat, proximity-aware experiences, crews, live availability and structured social features.
 
-**Focus:** Django, Django REST Framework, explainable ranking, evidence UX, source provenance, topic-specific credibility, PostgreSQL, Redis, Celery, and bilingual interfaces.
+`Python` `Django` `Flutter` `Mobile APIs` `BLE Concepts` `Privacy` `Android/iOS` `RTL/LTR`
 
-### [AI Cyber Awareness 365](https://github.com/waelbeso/AI-Cyber-Awareness) — AI + Cybersecurity Education
+### 🔎 [Proof](https://github.com/waelbeso/proof)
+**Evidence-First Social Network**
 
-A **365-day AI-assisted cybersecurity awareness campaign** with visual scenarios, social-media content, reusable prompts, and automation-ready educational assets.
+A bilingual platform where the primary object is a claim rather than a generic post, with structured evidence, sources, positions, contextualization and explainable ranking concepts.
 
-**Focus:** cybersecurity awareness, generative AI workflows, prompt engineering, content automation, and scalable educational content.
+`Django` `DRF` `PostgreSQL` `Redis` `Celery` `Evidence UX` `Source Provenance`
 
-### [Lockers Control](https://github.com/waelbeso/lockers-cl) — Software + Physical Hardware
+### 🛡️ [AI Cyber Awareness 365](https://github.com/waelbeso/AI-Cyber-Awareness)
+**AI + Cybersecurity Education**
 
-A locker-management system combining a **Django web service, QR-based access workflows, serial communication with locker hardware, and a desktop/kiosk launcher**.
+A 365-day AI-assisted cybersecurity awareness initiative built around reusable educational scenarios, visual content, prompt workflows and automation-ready assets.
 
-**Focus:** Python, Django, desktop tooling, QR workflows, serial hardware integration, testing, and operator-facing systems.
+`Cybersecurity Awareness` `Generative AI` `Prompt Engineering` `Automation` `Content Systems`
 
-## Technical Focus
+---
 
-- **Backend:** Python, Django, Django REST Framework, REST APIs
-- **Mobile:** Flutter, Dart, Android/iOS application workflows
-- **Data & Infrastructure:** PostgreSQL, Redis-compatible services, Celery, Docker, CI/CD
-- **Product Engineering:** domain architecture, authentication, authorization, security, QA, deployment, automation
-- **User Experience:** Arabic RTL, English LTR, responsive web, mobile UX
-- **Applied AI:** AI-assisted product workflows, content generation, automation, and experimentation
-- **Systems:** web-to-hardware integration, serial communication, operational dashboards
+## 🧰 Technical Focus
 
-## What I Build
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-I’m interested in products where software has to coordinate multiple real-world actors, workflows, or systems. That includes marketplaces, social products, operational platforms, automation tools, mobile applications, and software connected to physical hardware.
+**Backend & APIs** — Python, Django, Django REST Framework, REST APIs, authentication, authorization and domain architecture.
 
-I prefer engineering that is **testable, explainable, secure, maintainable, and deployable**.
+**Mobile & Web** — Flutter, Dart, responsive web applications and Android/iOS product workflows.
 
-## Quick Answers
+**Data & Infrastructure** — PostgreSQL, Redis-compatible services, Celery, Docker, CI/CD and deployment automation.
 
-### Who is Wael El-Begearmi?
+**Product Engineering** — architecture, security, testing, QA, operational workflows, observability and iterative delivery.
 
-Wael El-Begearmi is a **product builder and software developer** working primarily with Python/Django, Flutter, APIs, automation, AI-assisted workflows, and production-oriented web/mobile systems. His GitHub username is **waelbeso**.
+**Bilingual UX** — Arabic RTL and English LTR product experiences.
 
-### What does Wael El-Begearmi build?
+**Applied AI** — AI-assisted development, content generation, workflow automation and experimentation.
 
-He builds end-to-end digital products, including **fashion-tech platforms, social applications, evidence-driven communities, cybersecurity education systems, and hardware-connected software**.
+---
 
-### What technologies does Wael use?
+## 🧩 Selected Work
 
-The main stack across current projects includes **Python, Django, Django REST Framework, Flutter, Dart, PostgreSQL, Redis, Celery, Docker, GitHub Actions, REST APIs, and web/mobile deployment tooling**.
+### 🔐 [Lockers Control](https://github.com/waelbeso/lockers-cl)
+Software + physical hardware integration combining a Django service, QR-based access workflows, serial communication and desktop/kiosk tooling.
 
-### Does Wael build Arabic products?
+### 🪪 [National ID Card Reader](https://github.com/waelbeso/National-ID-card-reader)
+A computer-vision / document-processing project focused on extracting data from identity-card workflows.
 
-Yes. Several projects are designed for **Arabic RTL and English LTR** experiences, with bilingual product and engineering considerations built into the application architecture.
+### 📦 [Shipment](https://github.com/waelbeso/shipment)
+An earlier software project from my broader backend and systems work.
 
-## Connect
+[**Explore all repositories →**](https://github.com/waelbeso?tab=repositories)
+
+---
+
+## ❤️ Sponsor My Work
+
+If my open-source projects, experiments or developer resources are useful to you, you can support continued development through **GitHub Sponsors**.
+
+Sponsorship helps fund:
+
+- open-source development and maintenance;
+- infrastructure, hosting and development tooling;
+- AI and software experiments;
+- documentation and reusable developer resources;
+- continued work on ambitious product ideas.
+
+<div align="center">
+
+[![Sponsor Wael](https://img.shields.io/badge/Sponsor_Wael-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/waelbeso)
+
+</div>
+
+---
+
+## 👨‍💻 What I Build
+
+I’m interested in software that has to coordinate **real people, real workflows and real systems** — not only isolated demos.
+
+My work spans fashion-tech, social products, evidence-driven communities, cybersecurity education, operational platforms, mobile applications, automation and hardware-connected software.
+
+I prefer engineering that is **testable, explainable, secure, maintainable and deployable**.
+
+---
+
+## 🌍 Connect
 
 - **GitHub:** [@waelbeso](https://github.com/waelbeso)
+- **GitHub Sponsors:** [github.com/sponsors/waelbeso](https://github.com/sponsors/waelbeso)
 - **LinkedIn:** [Wael El-Begearmi](https://cn.linkedin.com/in/wael-el-begearmi)
 
 ---
 
-**Building useful products. Shipping real systems. Keeping the architecture honest.**
+<div align="center">
+
+### Building useful products. Shipping real systems. Keeping the architecture honest.
+
+</div>
